@@ -33,3 +33,5 @@ ________________________
 6. **Faça um commit com mensagem clara**
    ```bash
    feat: altera HTML conforme RfC-.....
+
+# Alunos: **Geydson e André Luiz**
